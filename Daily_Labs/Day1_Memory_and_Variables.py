@@ -34,3 +34,7 @@ YOUR CHALLENGE:
 3. Print them both using an f-string (like the examples above).
 4. Try to write the 'cleanest' code possible!
 """
+ai_model_name = ""
+accuracy = 0.0
+print(f"Variable: ai_model_name | Value: {ai_model_name} | Type: {type(ai_model_name)}")
+print(f"Variable: accuracy | Value: {accuracy} | Type: {type(accuracy)}")
